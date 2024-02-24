@@ -10,4 +10,5 @@ print(int(f_number) * int(s_number)  )
 print(int(f_number) / int(s_number)  )
 print(int(f_number) % int(s_number)  )
 
+print(float(f_number))
 
