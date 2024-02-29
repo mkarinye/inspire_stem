@@ -7,6 +7,7 @@
 # 
 for number in range (0,10):
     print(number)
+
 #squares of numbers
 
     for x in range(0,11):
@@ -16,3 +17,8 @@ for number in range (0,10):
         for i in range (1,11):
             for j in range (1,11):
                 print(i,"x",j,"=",i*j,end="\t")   
+
+
+for number in range (0,6):
+     print("\t")
+     print("Lawrence Jomo")
