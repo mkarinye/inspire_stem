@@ -25,3 +25,16 @@ print(laptop)
 siz_laptop = laptop.copy
 print(siz_laptop)
 
+
+
+
+
+my_car = {"make" : "Audi RS7" , "type" :  "urus" , "colour" : "green" ,"year" : "2024"}
+print(my_car["make"])
+print(my_car["type"])
+print(my_car["colour"])
+print(my_car["year"])
+
+
+bro_car= my_car.copy()
+print(bro_car)
